@@ -1,0 +1,2 @@
+#Outcome of Average Function
+76.0
